@@ -3,7 +3,7 @@ var Main = React.createClass({
     return (
       <div>
         <div>
-          <Header />
+          <Header title={'Creact'}/>
         </div>
         <div>
           <Body />
